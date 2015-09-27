@@ -3,3 +3,6 @@ public static void main (String[] Args) {
 	system.out.println("Hello there");
 
 }
+class Ohohoh() {
+	private String s;
+}
